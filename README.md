@@ -1,12 +1,3 @@
-# 0x1C.c
+C - Binary trees
+This was a partner project in which we learned about the details, advantages, and disadvantages of using trees as data structures. We learned about how to qualify trees as well as how to traverse them. Throughout the project, we implemented binary, binary search, AVL, and Max Binary Heap trees.
 
-Functions to print binary trees in a pretty way
-
-```
-                           .----------------------(006)-------.
-                      .--(001)-------.                   .--(008)--.
-                 .--(-02)       .--(003)-------.       (007)     (009)
-       .-------(-06)          (002)       .--(005)
-  .--(-08)--.                           (004)
-(-09)     (-07)
-```
